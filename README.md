@@ -6,7 +6,7 @@ This is a sleek, modern landing page designed to direct visitors to a movie stre
 Check out the live version here: [Stream Your Favorite Movies](https://novafork.com/)
 
 ## 📸 Preview
-![Website Preview](<img src="http://m.gettywallpapers.com/wp-content/uploads/2023/06/Cool-Anime-Wallpaper-3.jpg" alt="Cool Anime Wallpaper">)
+![Website Preview](<img src="http://m.gettywallpapers.com/wp-content/uploads/2023/06/Cool-Anime-Wallpaper-3.jpg)
 
 ## 📜 Features
 - **Modern Design**: Sleek, stylish, and minimalistic.
