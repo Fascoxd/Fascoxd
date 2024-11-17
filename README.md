@@ -9,7 +9,7 @@ This is a simple landing page designed to direct users to a movie streaming webs
 This project is a minimalist landing page built with HTML and CSS. It serves as a quick and easy way to guide users to a movie streaming platform.
 
 ## 🔗 Direct Link
-- [Stream Movies Here](https://yourmoviestreamingsite.com)
+- [Stream Movies Here](https://novafork.com)
 
 ## 🛠️ Technologies Used
 - **HTML** for the structure
