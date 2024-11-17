@@ -1,20 +1,19 @@
-# 🎥 Movie Streaming Link Page
+# 🎬 Movie Streaming Landing Page
 
-This is a simple landing page designed to direct users to a movie streaming website. It features a clear call-to-action button that takes visitors directly to the streaming site.
+This is a sleek, modern landing page designed to direct visitors to a movie streaming website. Built with HTML and CSS, it features a visually appealing background, a compelling call-to-action button, and a professional look.
 
-## 🚀 Visit the Page
-[Watch Movies Now]([](https://novafork.com/))
+## 🌐 Live Website
+Check out the live version here: [Stream Your Favorite Movies](https://yourusername.github.io/)
 
-## 📜 About
-This project is a minimalist landing page built with HTML and CSS. It serves as a quick and easy way to guide users to a movie streaming platform.
+## 📸 Preview
+![Website Preview](https://yourimageurl.com/preview.jpg)
 
-## 🔗 Direct Link
-- [Stream Movies Here](https://novafork.com)
+## 📜 Features
+- **Modern Design**: Sleek, stylish, and minimalistic.
+- **Responsive Layout**: Works well on mobile and desktop devices.
+- **Direct Link**: Clickable button that takes users straight to the movie streaming site.
 
-## 🛠️ Technologies Used
-- **HTML** for the structure
-- **CSS** for styling
-- **GitHub Pages** for hosting
-
-## ⭐️ Support
-If you enjoy using this page, please consider giving this repository a ⭐️!
+## 🔧 Setup Guide
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/yourrepository.git
