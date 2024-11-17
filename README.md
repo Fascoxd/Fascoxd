@@ -3,10 +3,10 @@
 This is a sleek, modern landing page designed to direct visitors to a movie streaming website. Built with HTML and CSS, it features a visually appealing background, a compelling call-to-action button, and a professional look.
 
 ## 🌐 Live Website
-Check out the live version here: [Stream Your Favorite Movies](https://yourusername.github.io/)
+Check out the live version here: [Stream Your Favorite Movies](https://novafork.com/)
 
 ## 📸 Preview
-![Website Preview](https://yourimageurl.com/preview.jpg)
+![Website Preview](<img src="http://m.gettywallpapers.com/wp-content/uploads/2023/06/Cool-Anime-Wallpaper-3.jpg" alt="Cool Anime Wallpaper">)
 
 ## 📜 Features
 - **Modern Design**: Sleek, stylish, and minimalistic.
